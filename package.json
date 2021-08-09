@@ -1,0 +1,20 @@
+{
+    "name": "later",
+    "displayName": "Later",
+    "version": "0.0.1",
+    "description": "todo",
+    "unity": "2018.4",
+    "license": "MIT",
+    "author": {
+      "name": "Adam Schlesinger",
+      "url": "https://github.com/adamschlesinger"
+    },
+    "bugs": {
+      "url": "https://github.com/adamschlesinger/Later/issues"
+    },
+    "repository":{
+      "type" : "git",
+      "url": "ssh://git@github.com/adamschlesinger/Later.git"
+    },
+    "dependencies": {}
+  }
